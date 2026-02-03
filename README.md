@@ -3,8 +3,9 @@
 ## Article Information
 [The “Vibe-coding” Trap: When AI Coding Feels Productive, and Quietly Breaks Your Architecture](https://medium.com/gitconnected/the-vibe-coding-trap-when-ai-coding-feels-productive-and-quietly-breaks-your-architecture-627943710dec)  
 
-Written By: Sergey Nes  
-Published: January 4, 2026
+**Written By**: Sergey Nes  
+**Published**: January 4, 2026  
+**Source**: Medium
 
 ## Thoughts on the Article 
 
